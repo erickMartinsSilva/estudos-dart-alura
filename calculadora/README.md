@@ -2,4 +2,6 @@ Simples calculadora de linha de comando que permite com que o usuário realize o
 
 Para executar o projeto, clone o repositório, abra a pasta do projeto no terminal e escreva:
 
-`dart run`
+```
+dart run
+```
