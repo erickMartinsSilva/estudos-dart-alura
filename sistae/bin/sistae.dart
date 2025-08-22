@@ -88,9 +88,9 @@ void registraAluno(List<Aluno> lista) {
 void exibirAlunos(List<Aluno> lista) {
   if(lista.isNotEmpty) {
       for(Aluno aluno in lista) {
-      print("=== Aluno ${lista.indexOf(aluno) + 1} ===");
-      print("Nome: ${aluno.nome}");
-      print("Média: ${aluno.calculaMedia()}");
+        print("=== Aluno ${lista.indexOf(aluno) + 1} ===");
+        print("Nome: ${aluno.nome}");
+        print("Média: ${aluno.calculaMedia()}");
     }
   } else {
     print("\nNão há dados para exibir!");
