@@ -1,2 +1,8 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+Simples projeto de notas que permite com que o usuário escreva, veja e remova suas notas.
+
+Para rodar este projeto, você deve ter o Flutter SDK baixado e instalado no PATH de sua máquina. Mais informações podem ser obtidas na documentação do Flutter: https://docs.flutter.dev/get-started/install
+Após realizar todos os passos necessários, clone este repositório, vá para a pasta do projeto no terminal e execute o seguinte comando:
+
+```
+dart run
+```
